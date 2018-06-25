@@ -12,8 +12,8 @@ buildscript {
     }
 }
 
-group project.modGroup
-version project.modVersion
+group modGroup
+version modVersion
 
 apply plugin: 'net.minecraftforge.gradle.forge'
 apply plugin: 'java'

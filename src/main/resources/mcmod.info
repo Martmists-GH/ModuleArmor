@@ -1,11 +1,11 @@
 [
   {
-    "modid": "giraffearmor",
-    "name": "GiraffeArmor",
+    "modid": "modulearmor",
+    "name": "ModuleArmor",
     "description": "Lorem ipsum dolor sit amet.",
     "version": "v0.0.1-alpha",
     "mcversion": "1.12.2",
-    "url": "https://github.com/martmists/GiraffeArmor",
+    "url": "https://github.com/martmists/ModuleArmor",
     "updateUrl": "",
     "authorList": [
       "Martmists",
